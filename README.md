@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hello there,
+this is tlahuilx, just trying to understand this thing.
